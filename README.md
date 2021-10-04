@@ -15,7 +15,8 @@ NUMBE3RS, where a genuis mathematician helps the CIA with crimes; I am always fa
 with the way that they explain the math and computer programs. In most expisodes, the math 
 is exaggerated, but can be fairly accurate overall.
 
-3. Like I stated before, my favorite math puzzle is Sudoku, which is the only game on my  
+3. 
+Like I stated before, my favorite math puzzle is Sudoku, which is the only game on my  
 phone. Sudoku is logic-based puzzle on 9x9 grid where the objective is to place the numbers 
 1-9 once in each columon, row and smaller 3x3 block. 
 Here is the link: https://sudoku.com/
