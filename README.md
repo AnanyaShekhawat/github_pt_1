@@ -20,3 +20,4 @@ Like I stated before, my favorite math puzzle is Sudoku, which is the only game 
 phone. Sudoku is logic-based puzzle on 9x9 grid where the objective is to place the numbers 
 1-9 once in each columon, row and smaller 3x3 block. 
 Here is the link: https://sudoku.com/
+
